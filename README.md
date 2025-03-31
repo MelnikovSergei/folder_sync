@@ -51,4 +51,11 @@ Each commit triggers an automated action flow that includes:
 https://github.com/user-attachments/assets/a89e9a5a-55bf-40fc-8b97-3774c4566dba
 
 
+#### Thanks in advance
+
+##### P.S.
+
+Also, take a look at my other project [test-run-monitor](https://github.com/MelnikovSergei/test-run-monitor). It’s a web application I built entirely by myself, including both frontend and backend. This project is an excellent fit for mentoring junior SDET and for learning how Docker works with applications and tests. The main idea behind the project is to run tests for each application run and collect the results in one place, providing a comprehensive report. It's a highly effective solution for staging environments, reducing release testing time by up to ~30%.
+
+
 
