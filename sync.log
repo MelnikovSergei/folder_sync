@@ -1,0 +1,659 @@
+2025-03-31 19:03:21,636 - Starting folder synchronization.
+2025-03-31 19:03:57,318 - Starting folder synchronization.
+2025-03-31 19:03:59,737 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:04:04,742 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:04:09,744 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:04:14,749 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:04:19,751 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:04:24,755 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:04:29,759 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:04:34,761 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:04:39,765 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:04:44,766 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:04:49,768 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:04:54,770 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:04:59,774 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:05:04,779 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:05:09,782 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:05:14,787 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:05:19,790 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:05:24,794 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:05:29,801 - Copied file: /Users/serhiimelnykov/Documents/source/__init__.py -> /Users/serhiimelnykov/Documents/replica/__init__.py
+2025-03-31 19:05:29,802 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:05:34,809 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:05:39,812 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:05:44,815 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:05:49,820 - Copied file: /Users/serhiimelnykov/Documents/source/__init__.py -> /Users/serhiimelnykov/Documents/replica/__init__.py
+2025-03-31 19:05:49,821 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:05:54,825 - Copied file: /Users/serhiimelnykov/Documents/source/__init__.py -> /Users/serhiimelnykov/Documents/replica/__init__.py
+2025-03-31 19:05:54,825 - Removed file: /Users/serhiimelnykov/Documents/replica/.DS_Store
+2025-03-31 19:05:54,825 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:05:59,828 - Removed file: /Users/serhiimelnykov/Documents/replica/.DS_Store
+2025-03-31 19:05:59,828 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:06:04,831 - Copied file: /Users/serhiimelnykov/Documents/source/__init__ copy.py -> /Users/serhiimelnykov/Documents/replica/__init__ copy.py
+2025-03-31 19:06:04,832 - Copied file: /Users/serhiimelnykov/Documents/source/__init__.py -> /Users/serhiimelnykov/Documents/replica/__init__.py
+2025-03-31 19:06:04,832 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:06:09,833 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:06:14,837 - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:14:58,631 - INFO - Starting folder synchronization.
+2025-03-31 19:14:58,633 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:15:03,638 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:15:08,643 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:15:13,649 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:15:18,650 - INFO - Removed file: /Users/serhiimelnykov/Documents/replica/.DS_Store
+2025-03-31 19:15:18,650 - INFO - Removed file: /Users/serhiimelnykov/Documents/replica/__init__.py
+2025-03-31 19:15:18,651 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:15:23,657 - INFO - Copied file: /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+2025-03-31 19:15:23,657 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:15:28,661 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:15:33,665 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:15:38,669 - INFO - Copied file: /Users/serhiimelnykov/Documents/source/__init__ copy.py -> /Users/serhiimelnykov/Documents/replica/__init__ copy.py
+2025-03-31 19:15:38,670 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:15:43,675 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:15:48,679 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:15:53,683 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:15:58,689 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:16:03,691 - INFO - Copied file: /Users/serhiimelnykov/Documents/source/Justfile -> /Users/serhiimelnykov/Documents/replica/Justfile
+2025-03-31 19:16:03,692 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:16:08,697 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:16:13,701 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:16:18,703 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:16:23,706 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:16:28,710 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:16:33,714 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:16:38,718 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:16:43,722 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:16:48,728 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:16:53,736 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:16:58,738 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:17:03,742 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:17:08,747 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:17:13,750 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:17:18,753 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:17:23,756 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:17:28,761 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:17:33,765 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:17:38,771 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:17:43,776 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:17:48,781 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:17:53,784 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:17:58,787 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:18:03,793 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:18:08,798 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:18:13,800 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:18:18,804 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:18:23,809 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:18:28,811 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:18:33,813 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:18:38,820 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:18:43,824 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:18:48,829 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:18:53,831 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:18:58,834 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:20:26,615 - INFO - Starting folder synchronization.
+2025-03-31 19:20:26,617 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:20:31,623 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:20:36,628 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:20:41,632 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:20:46,635 - INFO - Removed file: /Users/serhiimelnykov/Documents/replica/Justfile
+2025-03-31 19:20:46,636 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:20:51,641 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:20:56,643 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:21:01,646 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:21:06,650 - INFO - Synchronization completed. Waiting for next cycle...
+2025-03-31 19:21:11,654 - INFO - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:21:34,253] - INFO - Starting folder synchronization.
+[2025-03-31 19:21:34,254] - INFO - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:21:39,256] - INFO - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:21:44,260] - INFO - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:21:45,124] - [INFO] - Starting folder synchronization.
+[2025-03-31 19:21:45,125] - [INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:21:50,129] - [INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:21:53,217]-[INFO] - Starting folder synchronization.
+[2025-03-31 19:21:53,218]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:21:58,223]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:22:03,224]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:22:08,228]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:22:13,231]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:22:18,236]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:22:23,239]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:22:28,243]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:22:33,246]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:22:38,250]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:22:43,254]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:22:48,265]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:22:53,271]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:22:58,277]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:23:03,280]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:23:08,284]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:23:13,288]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:23:18,291]-[INFO] - Synchronization completed. Waiting for next cycle...
+[2025-03-31 19:23:20,543]-[INFO] - Starting folder synchronization.
+[2025-03-31 19:23:20,544]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:23:25,548]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:23:30,554]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:23:35,555]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:23:40,559]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:24:06,877]-[INFO] - Starting folder synchronization.
+[2025-03-31 19:24:06,878]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:24:11,886]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:24:16,892]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:24:21,896]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/untitled folder -> /Users/serhiimelnykov/Documents/replica/untitled folder
+[2025-03-31 19:24:21,897]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:24:26,902]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 19:24:26,903]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:24:31,908]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/renam -> /Users/serhiimelnykov/Documents/replica/renam
+[2025-03-31 19:24:31,911]-[INFO] - Removed directory: /Users/serhiimelnykov/Documents/replica/untitled folder
+[2025-03-31 19:24:31,912]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:24:36,918]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:24:41,924]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 19:24:41,925]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:24:46,927]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 19:24:46,928]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:24:51,935]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 19:24:51,936]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:24:56,939]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:25:01,942]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:25:06,946]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/rena -> /Users/serhiimelnykov/Documents/replica/rena
+[2025-03-31 19:25:06,947]-[INFO] - Removed directory: /Users/serhiimelnykov/Documents/replica/renam
+[2025-03-31 19:25:06,948]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:25:11,951]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:25:16,957]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:25:21,961]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:25:26,964]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:25:31,969]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:25:36,974]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:25:41,979]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:25:46,984]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:25:51,988]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:25:56,993]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:26:02,000]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:26:07,005]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:26:12,010]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:26:17,011]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:26:22,015]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/__init__ copy.py -> /Users/serhiimelnykov/Documents/replica/__init__ copy.py
+[2025-03-31 19:26:22,017]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:26:27,184]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:26:32,190]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:26:37,195]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:26:42,198]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:26:47,204]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:26:52,206]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:26:57,211]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:27:02,212]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:27:07,214]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:27:12,215]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:27:17,217]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:27:22,222]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:27:27,230]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:27:31,809]-[INFO] - Starting folder synchronization.
+[2025-03-31 19:27:31,811]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:27:36,816]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:27:41,820]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:27:46,826]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/__init__ copy.py -> /Users/serhiimelnykov/Documents/replica/__init__ copy.py
+[2025-03-31 19:27:46,827]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:27:51,829]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:27:56,831]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:28:01,835]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/__init__ opy.py -> /Users/serhiimelnykov/Documents/replica/__init__ opy.py
+[2025-03-31 19:28:01,837]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/__init__ copy.py
+[2025-03-31 19:28:01,838]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:28:06,844]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:28:11,848]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:28:16,852]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:28:21,854]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:28:26,862]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 19:28:26,863]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:28:31,869]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/4 -> /Users/serhiimelnykov/Documents/replica/4
+[2025-03-31 19:28:31,870]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:28:36,879]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 19:28:36,879]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:28:41,882]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/6 -> /Users/serhiimelnykov/Documents/replica/6
+[2025-03-31 19:28:41,883]-[INFO] - Removed directory: /Users/serhiimelnykov/Documents/replica/4
+[2025-03-31 19:28:41,883]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:28:46,889]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:28:51,896]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:28:56,900]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:29:01,903]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 19:29:01,904]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:29:06,907]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:29:11,914]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:29:16,919]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/6/__init__ opy.py -> /Users/serhiimelnykov/Documents/replica/6/__init__ opy.py
+[2025-03-31 19:29:16,922]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:29:21,926]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/6/__init__.py -> /Users/serhiimelnykov/Documents/replica/6/__init__.py
+[2025-03-31 19:29:21,926]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:29:26,933]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:29:31,938]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:29:36,945]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:29:41,951]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:29:46,957]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:29:52,412]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/rena/Firefox 133.0.dmg -> /Users/serhiimelnykov/Documents/replica/rena/Firefox 133.0.dmg
+[2025-03-31 19:29:52,763]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/rena/Firefox 135.0.dmg -> /Users/serhiimelnykov/Documents/replica/rena/Firefox 135.0.dmg
+[2025-03-31 19:29:52,764]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:29:59,687]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:30:06,547]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:30:13,419]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:30:20,409]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:30:27,331]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:30:34,254]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:30:41,160]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:30:48,074]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:30:54,926]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:31:01,774]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:31:08,628]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:31:15,478]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:31:22,337]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:31:29,190]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:31:36,035]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:31:42,919]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:31:49,905]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:31:57,001]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:32:03,900]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:32:10,838]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:32:17,713]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:32:24,880]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:32:31,823]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:32:38,680]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:32:45,543]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:32:52,483]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:32:59,509]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:33:06,414]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:33:13,333]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:33:20,289]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:33:27,191]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:33:34,079]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:33:41,022]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 19:33:47,928]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 20:53:38,095]-[INFO] - Starting folder synchronization.
+[2025-03-31 20:53:40,641]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 20:53:47,597]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 20:53:52,608]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 20:53:53,678]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/rena/Firefox 135.0.dmg -> /Users/serhiimelnykov/Documents/replica/rena/Firefox 135.0.dmg
+[2025-03-31 20:53:53,679]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 20:54:00,632]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/rena/.DS_Store
+[2025-03-31 20:54:00,633]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 20:54:05,635]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/6/__init__.py
+[2025-03-31 20:54:07,538]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 20:54:12,543]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/6/__in'it__ opy.py -> /Users/serhiimelnykov/Documents/replica/6/__in'it__ opy.py
+[2025-03-31 20:54:12,543]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/6/__init__ opy.py
+[2025-03-31 20:54:14,453]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 20:54:21,421]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 20:54:26,427]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/6/__in'it__ opy.py -> /Users/serhiimelnykov/Documents/replica/6/__in'it__ opy.py
+[2025-03-31 20:54:28,330]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 20:54:35,211]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 20:54:42,110]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 20:54:49,042]-[INFO] - Synchronization completed. Waiting for next cycle after 5
+[2025-03-31 20:54:52,797]-[INFO] - Starting folder synchronization.
+[2025-03-31 20:54:54,855]-[INFO] - Synchronization completed. Waiting for next cycle after 5sec
+[2025-03-31 20:55:01,766]-[INFO] - Synchronization completed. Waiting for next cycle after 5sec
+[2025-03-31 20:55:08,887]-[INFO] - Synchronization completed. Waiting for next cycle after 5sec
+[2025-03-31 20:55:15,901]-[INFO] - Synchronization completed. Waiting for next cycle after 5sec
+[2025-03-31 20:55:22,851]-[INFO] - Synchronization completed. Waiting for next cycle after 5sec
+[2025-03-31 20:55:30,471]-[INFO] - Starting folder synchronization.
+[2025-03-31 20:55:32,376]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:55:39,310]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:55:46,249]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:55:53,189]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:56:00,150]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:56:07,122]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:56:14,238]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:56:21,273]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:56:28,315]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:56:35,339]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:56:42,292]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:56:49,252]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:56:56,152]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:57:03,250]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:57:10,136]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:57:17,042]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:57:23,916]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:57:30,790]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:57:37,666]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:57:44,542]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:57:51,520]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:57:58,437]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:58:05,385]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:58:12,300]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:58:19,284]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:58:26,314]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:58:33,306]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:58:40,351]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:58:47,277]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:58:54,262]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:59:01,244]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:59:08,212]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:59:15,114]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:59:22,038]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:59:29,410]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:59:36,354]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:59:43,315]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:59:50,604]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 20:59:58,068]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:00:05,226]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:00:12,202]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:00:19,138]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:00:26,083]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:00:33,039]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:00:40,327]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:00:47,842]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:00:55,085]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:01:02,037]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:01:08,931]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:01:15,859]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:01:22,747]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:01:29,930]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:01:36,879]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:01:44,241]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:01:51,592]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:01:58,742]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:02:05,693]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:02:12,970]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:02:19,958]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:02:27,458]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:02:34,372]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:02:41,535]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:02:48,487]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:02:55,444]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:03:02,399]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:03:09,411]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:03:16,476]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:03:23,462]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:03:30,374]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:03:37,364]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:03:44,790]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:03:51,742]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:03:58,662]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:04:05,818]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:04:12,778]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:04:19,733]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:04:26,662]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:04:33,576]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:04:41,128]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:04:48,071]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:04:54,967]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:05:01,885]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:05:09,020]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:05:16,300]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:05:20,518]-[INFO] - Starting folder synchronization.
+[2025-03-31 21:05:22,948]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:05:27,952]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/6/__init__ opy.py -> /Users/serhiimelnykov/Documents/replica/6/__init__ opy.py
+[2025-03-31 21:05:27,955]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/6/__in'it__ opy.py
+[2025-03-31 21:05:29,889]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:05:36,791]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:05:43,720]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:05:48,727]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/6/__init__ opy.py -> /Users/serhiimelnykov/Documents/replica/6/__init__ opy.py
+[2025-03-31 21:05:50,623]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:05:57,567]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:06:04,496]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:06:11,454]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:10:05,881]-[INFO] - Starting folder synchronization.
+[2025-03-31 21:10:07,842]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:10:14,730]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:10:21,666]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:49:38,481]-[INFO] - Starting folder synchronization.
+[2025-03-31 21:50:41,041]-[INFO] - Starting folder synchronization.
+[2025-03-31 21:50:41,045]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:50:41,047]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/6 -> /Users/serhiimelnykov/Documents/replica/6
+[2025-03-31 21:50:41,048]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/__init__ opy.py -> /Users/serhiimelnykov/Documents/replica/__init__ opy.py
+[2025-03-31 21:50:41,615]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/rena -> /Users/serhiimelnykov/Documents/replica/rena
+[2025-03-31 21:50:41,617]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:50:48,542]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:50:55,550]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:51:02,509]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:51:09,630]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:51:16,531]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:52:10,325]-[INFO] - Starting folder synchronization.
+[2025-03-31 21:52:15,644]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:52:23,659]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/6 -> /Users/serhiimelnykov/Documents/replica/6
+[2025-03-31 21:52:23,660]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/__init__ opy.py -> /Users/serhiimelnykov/Documents/replica/__init__ opy.py
+[2025-03-31 21:52:24,001]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/rena -> /Users/serhiimelnykov/Documents/replica/rena
+[2025-03-31 21:52:24,003]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:52:32,016]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:52:34,092]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:52:42,103]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:52:42,105]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/__init__ opy.py -> /Users/serhiimelnykov/Documents/replica/__init__ opy.py
+[2025-03-31 21:52:44,081]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:52:52,091]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:52:52,092]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/6/__init__ opy.py
+[2025-03-31 21:52:54,050]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:53:02,057]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/12 -> /Users/serhiimelnykov/Documents/replica/12
+[2025-03-31 21:53:02,058]-[INFO] - Removed directory: /Users/serhiimelnykov/Documents/replica/6
+[2025-03-31 21:53:04,023]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:53:14,016]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:53:22,022]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/__init__ opy.py -> /Users/serhiimelnykov/Documents/replica/__init__ opy.py
+[2025-03-31 21:53:24,074]-[INFO] - Synchronization completed. Waiting for next cycle after 5 sec
+[2025-03-31 21:53:59,901]-[INFO] - Starting folder synchronization.
+[2025-03-31 21:54:04,952]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:54:09,961]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:54:09,963]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/12 -> /Users/serhiimelnykov/Documents/replica/12
+[2025-03-31 21:54:09,965]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/__init__ opy.py -> /Users/serhiimelnykov/Documents/replica/__init__ opy.py
+[2025-03-31 21:54:10,292]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/rena -> /Users/serhiimelnykov/Documents/replica/rena
+[2025-03-31 21:54:10,292]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:54:15,298]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:54:17,475]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:54:22,484]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/__init_ opy.py -> /Users/serhiimelnykov/Documents/replica/__init_ opy.py
+[2025-03-31 21:54:22,484]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/__init__ opy.py
+[2025-03-31 21:54:24,572]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:54:31,606]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:54:38,616]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:54:45,703]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:54:52,687]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:54:57,696]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:54:59,715]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:55:06,739]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:55:11,750]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/__init_ opy.py
+[2025-03-31 21:55:11,751]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/12/__init_ opy.py -> /Users/serhiimelnykov/Documents/replica/12/__init_ opy.py
+[2025-03-31 21:55:13,810]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:55:18,822]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:55:21,170]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:55:26,182]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/__init_ opy.py -> /Users/serhiimelnykov/Documents/replica/__init_ opy.py
+[2025-03-31 21:55:28,331]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:55:35,334]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:55:42,522]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:55:57,462]-[INFO] - Starting folder synchronization.
+[2025-03-31 21:56:02,753]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:56:07,765]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/12 -> /Users/serhiimelnykov/Documents/replica/12
+[2025-03-31 21:56:07,766]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/__init_ opy.py -> /Users/serhiimelnykov/Documents/replica/__init_ opy.py
+[2025-03-31 21:56:08,206]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/rena -> /Users/serhiimelnykov/Documents/replica/rena
+[2025-03-31 21:56:08,207]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:56:13,219]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:56:15,239]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:56:20,249]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:56:20,250]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/__init_ opy.py
+[2025-03-31 21:56:22,254]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:56:27,262]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:56:29,241]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:56:34,252]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:56:34,255]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/12/__init_ opy.py -> /Users/serhiimelnykov/Documents/replica/12/__init_ opy.py
+[2025-03-31 21:56:36,264]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:56:41,272]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/12/__init_ opy.py -> /Users/serhiimelnykov/Documents/replica/12/__init_ opy.py
+[2025-03-31 21:56:43,454]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:56:50,468]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:56:57,413]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:57:04,392]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:57:09,403]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/__init_ opy.py -> /Users/serhiimelnykov/Documents/replica/__init_ opy.py
+[2025-03-31 21:57:11,338]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:57:16,345]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/__init_ opy.txt -> /Users/serhiimelnykov/Documents/replica/__init_ opy.txt
+[2025-03-31 21:57:16,345]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/__init_ opy.py
+[2025-03-31 21:57:18,276]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:57:25,165]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:57:30,171]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/simple.txt -> /Users/serhiimelnykov/Documents/replica/simple.txt
+[2025-03-31 21:57:30,172]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/__init_ opy.txt
+[2025-03-31 21:57:30,173]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/12/edited.py -> /Users/serhiimelnykov/Documents/replica/12/edited.py
+[2025-03-31 21:57:30,174]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/12/__init_ opy.py
+[2025-03-31 21:57:32,122]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:57:37,130]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/12/edited.txt -> /Users/serhiimelnykov/Documents/replica/12/edited.txt
+[2025-03-31 21:57:37,130]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/12/edited.py
+[2025-03-31 21:57:39,110]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:57:46,074]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:57:51,082]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:57:53,042]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:57:58,049]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:57:59,935]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:58:04,946]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:58:06,831]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:58:12,946]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/rena/big.dmg -> /Users/serhiimelnykov/Documents/replica/rena/big.dmg
+[2025-03-31 21:58:12,957]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/rena/Firefox 133.0.dmg
+[2025-03-31 21:58:12,958]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:58:19,047]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/rena/big_1.dmg -> /Users/serhiimelnykov/Documents/replica/rena/big_1.dmg
+[2025-03-31 21:58:19,059]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/rena/Firefox 135.0.dmg
+[2025-03-31 21:58:19,059]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:58:26,025]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:58:57,355]-[INFO] - Starting folder synchronization.
+[2025-03-31 21:59:02,362]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:59:07,377]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/12 -> /Users/serhiimelnykov/Documents/replica/12
+[2025-03-31 21:59:07,758]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/rena -> /Users/serhiimelnykov/Documents/replica/rena
+[2025-03-31 21:59:07,761]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/simple.txt -> /Users/serhiimelnykov/Documents/replica/simple.txt
+[2025-03-31 21:59:07,761]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:59:12,775]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:59:14,739]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:59:19,846]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 21:59:19,848]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/simple.txt
+[2025-03-31 21:59:21,877]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:59:28,136]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/rena/big_3.dmg -> /Users/serhiimelnykov/Documents/replica/rena/big_3.dmg
+[2025-03-31 21:59:28,151]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/rena/big.dmg
+[2025-03-31 21:59:28,151]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:59:35,370]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:59:40,381]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/12/edited.txt -> /Users/serhiimelnykov/Documents/replica/12/edited.txt
+[2025-03-31 21:59:42,546]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:59:49,632]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 21:59:56,635]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:00:03,830]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:00:08,836]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/simple.txt -> /Users/serhiimelnykov/Documents/replica/simple.txt
+[2025-03-31 22:00:10,753]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:00:17,781]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:00:24,720]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:00:38,120]-[INFO] - Starting folder synchronization.
+[2025-03-31 22:00:43,108]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:00:58,502]-[INFO] - Starting folder synchronization.
+[2025-03-31 22:01:03,652]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:01:08,665]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/12 -> /Users/serhiimelnykov/Documents/replica/12
+[2025-03-31 22:01:09,160]-[INFO] - Copied new directory: /Users/serhiimelnykov/Documents/source/rena -> /Users/serhiimelnykov/Documents/replica/rena
+[2025-03-31 22:01:09,164]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/simple.txt -> /Users/serhiimelnykov/Documents/replica/simple.txt
+[2025-03-31 22:01:09,165]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:01:14,177]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 22:01:16,133]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:01:22,273]-[INFO] - Copied file: /Users/serhiimelnykov/Documents/source/rena/big_2.dmg -> /Users/serhiimelnykov/Documents/replica/rena/big_2.dmg
+[2025-03-31 22:01:22,286]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/rena/big_3.dmg
+[2025-03-31 22:01:22,286]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:01:27,296]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/.DS_Store -> /Users/serhiimelnykov/Documents/replica/.DS_Store
+[2025-03-31 22:01:27,296]-[INFO] - Removed file: /Users/serhiimelnykov/Documents/replica/simple.txt
+[2025-03-31 22:01:29,293]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:01:36,251]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:01:41,258]-[INFO] - Updated file (content changed): /Users/serhiimelnykov/Documents/source/12/edited.txt -> /Users/serhiimelnykov/Documents/replica/12/edited.txt
+[2025-03-31 22:01:43,286]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:01:50,337]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:01:57,317]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:02:04,246]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:02:11,145]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:02:18,097]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:02:25,064]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:02:32,146]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:02:39,147]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:02:46,140]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:02:53,060]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:03:00,148]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:03:07,237]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:03:14,290]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:03:21,372]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:03:28,516]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:03:35,581]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:03:42,545]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:03:49,515]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:03:56,669]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:04:03,697]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:04:10,704]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:04:17,732]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:04:24,625]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:04:31,536]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:04:38,557]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:04:45,564]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:04:52,485]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:04:59,572]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:05:06,629]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:05:13,669]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:05:20,832]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:05:27,843]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:05:34,859]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:05:42,007]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:05:49,206]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:05:56,222]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:06:03,300]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:06:10,357]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:06:17,498]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:06:24,397]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:06:31,383]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:06:38,446]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:06:45,433]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:06:52,366]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:06:59,275]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:07:06,193]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:07:13,146]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:07:20,219]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:07:27,380]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:07:34,395]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:07:41,601]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:07:48,654]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:07:55,741]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:08:02,766]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:08:09,808]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:08:16,860]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:08:23,798]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:08:30,714]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:08:37,618]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:08:44,553]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:08:51,526]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:08:58,465]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:09:05,421]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:09:12,335]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:09:19,253]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:09:26,223]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:09:33,122]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:09:40,085]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:09:47,693]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:09:55,016]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:10:02,259]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:10:09,384]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:10:16,543]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:10:23,610]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:10:30,641]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:10:37,613]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:10:44,521]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:10:51,444]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:10:58,608]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:11:05,637]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:11:12,851]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:11:21,450]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:11:28,487]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:11:35,583]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:11:44,266]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:11:51,849]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:11:58,905]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:12:06,618]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:12:13,801]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:12:20,933]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:12:28,129]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:12:35,157]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:12:42,233]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:12:49,179]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:12:56,118]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:13:03,033]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:13:09,938]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:13:16,827]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:13:23,736]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:13:30,682]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:13:37,710]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:13:44,707]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:13:51,815]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:13:58,706]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:14:05,809]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:14:12,918]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:14:19,984]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:14:26,982]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:14:33,956]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:14:41,089]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:14:48,294]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:14:55,394]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:15:02,373]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:15:09,350]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:15:16,245]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
+[2025-03-31 22:15:23,377]-[INFO] - Synchronization completed. Waiting for next cycle after 2 sec
