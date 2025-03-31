@@ -32,8 +32,7 @@ or
 ``uv run python sync.py --help``
 This will show details about required parameters and usage instructions.
 
-<img width="623" alt="Help" src="https://github.com/user-attachments/assets/2515615f-36cb-4ee7-b087-f8ee2972cade" />
-
+<img width="623" alt="Help" src="https://github.com/user-attachments/assets/02bbf3aa-68c6-462f-8f2e-ead609d8c381" />
 
 
 ### Action Flow
@@ -43,5 +42,20 @@ Each commit triggers an automated action flow that includes:
 - Running pytest to execute unit tests and verify code integrity.
 
 - Ensuring all tests pass before merging changes.
+  
+<img width="1344" alt="testrun" src="https://github.com/user-attachments/assets/32e1cc1a-37ad-4a2f-bc28-922b08ab8216" />
 
-![image](https://github.com/user-attachments/assets/5b82fede-94dc-4630-b315-4cd59f2900e6)
+
+### Demo
+
+https://github.com/user-attachments/assets/a89e9a5a-55bf-40fc-8b97-3774c4566dba
+
+
+#### Thanks in advance
+
+##### P.S.
+
+Also, take a look at my other project [test-run-monitor](https://github.com/MelnikovSergei/test-run-monitor). It’s a web application I built entirely by myself, including both frontend and backend. This project is an excellent fit for mentoring junior SDET and for learning how Docker works with applications and tests. The main idea behind the project is to run tests for each application run and collect the results in one place, providing a comprehensive report. It's a highly effective solution for staging environments, reducing release testing time by up to ~30%.
+
+
+
