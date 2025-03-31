@@ -30,6 +30,7 @@ To display the help message with available arguments, run:
 or
 
 ``uv run python sync.py --help``
+
 This will show details about required parameters and usage instructions.
 
 <img width="623" alt="Help" src="https://github.com/user-attachments/assets/02bbf3aa-68c6-462f-8f2e-ead609d8c381" />
