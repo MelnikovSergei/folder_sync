@@ -7,7 +7,8 @@ import logging
 from filecmp import dircmp
 from pathlib import Path
 
-def calculate_file_hash(file_path: str, algorithm: str ="sha256") -> str:
+
+def calculate_file_hash(file_path: str, algorithm: str = "sha256") -> str:
     """
     Calculate the hash of a file using the specified hashing algorithm (default: SHA-256).
     """
@@ -32,7 +33,10 @@ def compare_and_sync_folders(source: str, replica: str, log_file: str) -> None:
 
     # Recursively sync subdirectories
     for sub_dir in comparison.common_dirs:
-        compare_and_sync_folders(os.path.join(source, sub_dir), os.path.join(replica, sub_dir), log_file)
+        compare_and_sync_folders(
+            os.path.join(source, sub_dir), os.path.join(replica, sub_dir), log_file
+        )
+
 
 def compare_and_update_files(comparison: dircmp, source: Path, replica: Path) -> None:
     """
@@ -44,7 +48,10 @@ def compare_and_update_files(comparison: dircmp, source: Path, replica: Path) ->
 
         if calculate_file_hash(source_path) != calculate_file_hash(replica_path):
             shutil.copy2(source_path, replica_path)
-            logging.info(f"Updated file (content changed): {source_path} -> {replica_path}")
+            logging.info(
+                f"Updated file (content changed): {source_path} -> {replica_path}"
+            )
+
 
 def copy_new_or_modified_files(comparison: dircmp, source: Path, replica: Path) -> None:
     """
@@ -61,6 +68,7 @@ def copy_new_or_modified_files(comparison: dircmp, source: Path, replica: Path) 
             shutil.copy2(source_path, replica_path)
             logging.info(f"Copied file: {source_path} -> {replica_path}")
 
+
 def remove_extra_files_or_dirs(comparison: dircmp, replica: Path) -> None:
     """
     Remove files or directories that exist only in the replica.
@@ -74,6 +82,7 @@ def remove_extra_files_or_dirs(comparison: dircmp, replica: Path) -> None:
         else:
             os.remove(replica_path)
             logging.info(f"Removed file: {replica_path}")
+
 
 def main():
     parser = argparse.ArgumentParser(description="Synchronize two folders with logging and periodic execution.")
@@ -90,8 +99,8 @@ def main():
         format="[%(asctime)s]-[%(levelname)s] - %(message)s",
         handlers=[
             logging.FileHandler(args.log_file_path),  # Log to a file
-            logging.StreamHandler()  # Log to the console
-        ]
+            logging.StreamHandler(),  # Log to the console
+        ],
     )
 
     logging.info("Starting folder synchronization.")
